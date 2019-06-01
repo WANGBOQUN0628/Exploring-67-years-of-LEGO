@@ -1,5 +1,5 @@
 # Exploring-67-years-of-LEGO
-This is a project on datacamp.com
+This is a project on *www.datacamp.com*
 
 Open the **notebook.ipynb** to see details.
 
